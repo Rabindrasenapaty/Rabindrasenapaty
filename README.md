@@ -2,7 +2,7 @@
 <h3 align="center">Crafting Code and Building Dreams: Versioning Life one Commit at a Time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabindrasenapty&label=Profile%20views&color=0e75b6&style=flat" alt="rabindrasenapty" /> </p>
-
+<img align="right" alt="coding" width="400" src="https://github.com/Rabindrasenapaty/Rabindrasenapaty/blob/main/octocat-1702813802407.png">
 - 🔭 I’m currently working on **Book Browse**
 
 - 🌱 I’m currently learning **JavaScript**
