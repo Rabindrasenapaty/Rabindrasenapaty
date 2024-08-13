@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabindrasenapty&label=Profile%20views&color=0e75b6&style=flat" alt="rabindrasenapty" /> </p>
 - 🔭 I’m currently working on **Book Browse**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **FullStack Development**
+- 🤝 I’m looking for help with **Data Science**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java & Python**
 
 - 📫 How to reach me **rabindrasenapaty2003@gmail.com**
 
